@@ -24,7 +24,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Create APIs basic for borrowing and returning book management system, use GraphQL API
+
 
 ## Installation
 
